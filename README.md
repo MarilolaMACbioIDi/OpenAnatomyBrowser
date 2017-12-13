@@ -36,7 +36,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 Oabrowser screen.
 
-![Oabrowser screen.](https://raw.githubusercontent.com/MarilolaMACbioIDi/OpenAnatomyBrowser/master/oabrowser.jpg){:height="240px" width="150px"}
+![Oabrowser screen.](https://raw.githubusercontent.com/MarilolaMACbioIDi/OpenAnatomyBrowser/master/oabrowser.jpg width=6cm height=3cm)
 
 # Background and References
 
