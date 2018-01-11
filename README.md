@@ -36,7 +36,9 @@ The main objective of this project is to use the open anatomy browser as a train
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Open Anatomy and 3DSlicer update
+
+<img src="https://raw.githubusercontent.com/MarilolaMACbioIDi/OpenAnatomyBrowser/master/OABrowser_update.png" width="417" height="264">
 
 Open Anatomy Browser Screen
 
